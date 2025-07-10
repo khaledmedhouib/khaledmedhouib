@@ -46,8 +46,8 @@ I'm a passionate **Full Stack Web Developer** with a specialized focus on **TYPO
 ### 📫 Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/khaledmedhouib)
-- 📬 Email: khaled.medhouib@gmail.com
-- 💻 Portfolio: *(Coming soon)*
+- 📬 Email: medhouibkhaled2000@gmail.com
+- 💻 Portfolio: https://portfolio-khaled2000.vercel.app/contact
 
 ---
 
