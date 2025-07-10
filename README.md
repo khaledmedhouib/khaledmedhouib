@@ -49,7 +49,7 @@ I'm a passionate **Full Stack Web Developer** with a specialized focus on **TYPO
 - 📬 Email: medhouibkhaled2000@gmail.com
 - 💻 Portfolio: https://portfolio-khaled2000.vercel.app
 
----
+---<img src="https://github.com/khaledmedhouib/khaledmedhouib/blob/Master/khaled_signature_hd.gif" alt="M. Khaled Medhouib Signature" width="400"/>
 
 ### 🧠 Fun Fact
 
